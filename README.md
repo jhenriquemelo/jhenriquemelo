@@ -32,8 +32,8 @@
  <h3>Stats</h3>
     <div>
       <a href="https://github.com/jhenriquemelo">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhenriquemelo&count_private=true&show_icons=true&theme=chartreuse-dark"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquemelo&layout=compact&langs_count=7&theme=chartreuse-dark""/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhenriquemelo&count_private=true&show_icons=true&theme=shades-of-purple"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenriquemelo&layout=compact&langs_count=7&theme=shades-of-purple"/>
     </div>
 
 <h3>Conctats</h3>
